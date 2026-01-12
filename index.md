@@ -1,35 +1,35 @@
 ---
 layout: default
-title: ホーム
+title: Home
 ---
 
-# 箱入り娘 - クラシックパズル
+# Hakoirimusume - Classic Sliding Puzzle
 
-日本の伝統的なスライディングパズル「箱入り娘」のiOSアプリです。
+An iOS app based on the traditional Japanese sliding puzzle "Hakoirimusume".
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/scriptf/ios_hakoirimusume/main/Hakoirimusume/Assets.xcassets/AppIcon.appiconset/1024.png" width="200" alt="App Icon">
 </div>
 
-## 特徴
+## Features
 
-- **シンプルで美しいデザイン**: モダンで洗練されたUIで快適にプレイ
-- **直感的な操作**: ドラッグ&ドロップで簡単に駒を移動
-- **Undo/Redo機能**: 何度でもやり直し可能
-- **カラーテーマ**: クラシック、パステル、ビビッドの3種類から選択可能
-- **完全無料**: 広告なし、課金なし
+- **Simple and beautiful design**: A modern, refined UI for comfortable play
+- **Intuitive controls**: Move pieces easily with drag and drop
+- **Undo/Redo**: Retry as many times as you like
+- **Color themes**: Choose from three themes (Classic, Pastel, Vivid)
+- **Completely free**: No ads, no in-app purchases
 
-## ダウンロード
+## Download
 
-[App Storeからダウンロード](#) (準備中)
+[Download on the App Store](#) (Coming soon)
 
-## サポート
+## Support
 
-不具合の報告やご要望は、[GitHub Issues](https://github.com/scriptf/ios_hakoirimusume/issues) までお願いします。
+For bug reports or requests, please use [GitHub Issues](https://github.com/scriptf/ios_hakoirimusume/issues).
 
-## プライバシーポリシー
+## Privacy Policy
 
-[プライバシーポリシーはこちら](./privacy_policy)
+[View the Privacy Policy](./privacy_policy)
 
 ---
 
