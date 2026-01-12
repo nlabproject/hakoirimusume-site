@@ -5,13 +5,13 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Last Updated**: October 18, 2025
+**Last Updated**: January 12, 2026
 
 ---
 
 ## Introduction
 
-This Privacy Policy explains how user information is handled in "Hakoirimusume" (hereinafter referred to as "this App").
+This Privacy Policy explains how user information is handled in "Hakoiri-Musume" (hereinafter referred to as "this App").
 
 ## Information Collection
 
@@ -86,6 +86,6 @@ If you have any questions or concerns about privacy, please contact us via GitHu
 ---
 <div align="center">
 
-**Hakoirimusume Development Team**
+**Hakoiri-Musume Development Team**
 
 </div>

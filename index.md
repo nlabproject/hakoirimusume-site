@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Hakoirimusume - Classic Sliding Puzzle
+# Hakoiri-Musume - Classic Sliding Puzzle
 
-An iOS app based on the traditional Japanese sliding puzzle "Hakoirimusume".
+An iOS app based on the traditional Japanese sliding puzzle "Hakoiri-Musume".
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/scriptf/ios_hakoirimusume/main/Hakoirimusume/Assets.xcassets/AppIcon.appiconset/1024.png" width="200" alt="App Icon">
@@ -32,5 +32,5 @@ For bug reports or requests, please use [GitHub Issues](https://github.com/scrip
 [View the Privacy Policy](./privacy_policy)
 
 ---
-
-© 2025 Hakoirimusume
+ 
+© 2026 Hakoiri-Musume
