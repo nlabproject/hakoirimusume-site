@@ -8,7 +8,7 @@ title: Home
 An iOS app based on the traditional Japanese sliding puzzle "Hakoiri-Musume".
 
 <div align="center">
-<img src="/assets/images/app-icon.png" width="200" alt="App Icon">
+<img src="assets/images/app-icon.png" width="200" alt="App Icon">
 </div>
 
 ## Features
