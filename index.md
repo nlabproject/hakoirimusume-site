@@ -25,7 +25,7 @@ An iOS app based on the traditional Japanese sliding puzzle "Hakoiri-Musume".
 
 ## Support
 
-For bug reports or requests, please use [GitHub Issues](https://github.com/scriptf/ios_hakoirimusume/issues).
+For bug reports or requests, please use [GitHub Issues](https://github.com/nlabproject/hakoirimusume-site/issues) (posting requires GitHub login).
 
 ## Privacy Policy
 
