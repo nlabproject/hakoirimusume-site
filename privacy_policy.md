@@ -81,7 +81,7 @@ This Privacy Policy may be updated from time to time. If there are significant c
 
 If you have any questions or concerns about privacy, please contact us via GitHub Issues:
 
-[https://github.com/scriptf/ios_hakoirimusume/issues](https://github.com/scriptf/ios_hakoirimusume/issues)
+[https://github.com/nlabproject/hakoirimusume-site/issues](https://github.com/nlabproject/hakoirimusume-site/issues)
 
 ---
 <div align="center">
